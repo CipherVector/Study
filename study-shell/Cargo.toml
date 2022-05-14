@@ -2,7 +2,7 @@
 name = "study-shell"
 version = "0.7.0"
 license = "Apache-2.0"
-edition = "2021"
+edition = "2018"
 
 [package.metadata.docs.rs]
 rustdoc-args = ["--cfg", "docsrs"]

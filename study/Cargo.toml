@@ -4,7 +4,7 @@ version = "1.0.0"
 license = "Apache-2.0"
 authors = ["Lucian Czerny <lucian@iamlucian.cz>, Louis LEvar"]
 description = "Study helper"
-edition = "2021"
+edition = "2018"
 
 [package.metadata.docs.rs]
 # The "svg" and "image" features have doc clashes that cause undefined output in docs.
