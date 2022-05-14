@@ -1,0 +1,12 @@
+/Users/blank/Desktop/Study/study/target/debug/deps/tinystr-ac3cac797541f119.rmeta: /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/lib.rs /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/helpers.rs /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr16.rs /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr4.rs /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr8.rs /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystrauto.rs
+
+/Users/blank/Desktop/Study/study/target/debug/deps/libtinystr-ac3cac797541f119.rlib: /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/lib.rs /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/helpers.rs /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr16.rs /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr4.rs /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr8.rs /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystrauto.rs
+
+/Users/blank/Desktop/Study/study/target/debug/deps/tinystr-ac3cac797541f119.d: /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/lib.rs /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/helpers.rs /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr16.rs /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr4.rs /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr8.rs /Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystrauto.rs
+
+/Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/lib.rs:
+/Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/helpers.rs:
+/Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr16.rs:
+/Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr4.rs:
+/Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr8.rs:
+/Users/blank/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystrauto.rs:
