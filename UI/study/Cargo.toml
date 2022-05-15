@@ -2,8 +2,8 @@
 name = "study"
 version = "1.0.0"
 license = "Apache-2.0"
-authors = ["Lucian Czerny <lucian@iamlucian.cz>, Louis LEvar"]
-description = "Study helper"
+authors = ["Lucian Czerny <lucian@iamlucian.cz>, Louis Levar <arithmetified@gmail.com>"]
+description = "Study helper's build in calculator"
 edition = "2018"
 
 [package.metadata.docs.rs]
